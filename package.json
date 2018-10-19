@@ -1,0 +1,27 @@
+{
+  "name": "wordflame",
+  "version": "1.0.0",
+  "description": "词焰（知识归类复习工具）",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kukelove/wordFlame.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kukelove/wordFlame/issues"
+  },
+  "homepage": "https://github.com/kukelove/wordFlame#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "log4js": "^3.0.6"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  }
+}
